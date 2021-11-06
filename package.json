@@ -1,0 +1,25 @@
+{
+  "name": "@mortem45/config-project",
+  "version": "1.0.0",
+  "description": "A CLI to config my projects",
+  "main": "src/cli.js",
+  "bin": {
+    "@mortem45/config-project": "bin/config-proyect",
+    "config-project": "bin/config-proyect"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "config-project"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}

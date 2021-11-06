@@ -17,11 +17,16 @@
     "cli",
     "config-project"
   ],
-  "author": "",
+  "author": "Brandon Monterrozo",
   "license": "ISC",
   "dependencies": {
     "arg": "^5.0.1",
+    "chalk": "^4.1.2",
     "esm": "^3.2.25",
-    "inquirer": "^8.2.0"
+    "execa": "^5.1.1",
+    "inquirer": "^8.2.0",
+    "listr": "^0.14.3",
+    "ncp": "^2.0.0",
+    "pkg-install": "^1.0.0"
   }
 }

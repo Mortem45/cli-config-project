@@ -18,7 +18,7 @@
     "config-project"
   ],
   "author": "Brandon Monterrozo",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "arg": "^5.0.1",
     "chalk": "^4.1.2",
